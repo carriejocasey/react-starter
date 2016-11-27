@@ -1,7 +1,7 @@
-My Project
+React Starter Kit
 ---
  
-Welcome.
+I created this kit based off of a tutorial by 
  
  
  
